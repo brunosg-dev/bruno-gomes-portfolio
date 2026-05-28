@@ -41,17 +41,36 @@
                             target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     </div>
                 </div>
-                <aside class="hero-panel">
-                    <h2>What I am learning</h2>
-                    <ul class="hero-list">
-                        <li>Semantic HTML and accessible structure</li>
-                        <li>Modern responsive CSS with grid and flex layout</li>
-                        <li>GitHub workflow, version control, and simple demos</li>
-                    </ul>
-                    <p class="hero-note">
-                        This portfolio is a simple, honest showcase of my progress as a student and aspiring web
-                        developer.
-                    </p>
+                <aside class="hero-panel learning-snapshot" aria-labelledby="learning-snapshot-heading">
+                    <h2 id="learning-snapshot-heading">Learning snapshot</h2>
+                    <div class="learning-snapshot-inner">
+                        <div class="snapshot-photo">
+                            <img src="assets/images/profile.jpg" alt="Portrait of Bruno Silva Gomes"
+                                class="profile-avatar" />
+                            <div class="profile-copy">
+                                <p class="profile-label">Coding Diploma Student</p>
+                                <!-- compact badge only on desktop to avoid narrow text blocks -->
+                            </div>
+                        </div>
+
+                        <div class="snapshot-terminal-wrap">
+                            <div class="terminal-card" aria-label="Terminal-style learning status">
+                                <div class="terminal-bar" aria-hidden="true">
+                                    <span class="terminal-dot red"></span>
+                                    <span class="terminal-dot yellow"></span>
+                                    <span class="terminal-dot green"></span>
+                                </div>
+                                <div class="terminal-body">
+                                    <p class="terminal-line"><span class="terminal-prompt">$ whoami</span></p>
+                                    <p class="terminal-output">bruno-silva-gomes</p>
+                                    <p class="terminal-line"><span class="terminal-prompt">$ current-focus</span></p>
+                                    <p class="terminal-output">HTML • CSS • Tailwind • JavaScript • GitHub</p>
+                                    <p class="terminal-line"><span class="terminal-prompt">$ status</span></p>
+                                    <p class="terminal-output">Building learning portfolio_</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </aside>
             </div>
         </div>
@@ -318,6 +337,7 @@
     <footer class="site-footer">
         <p>Bruno Silva Gomes — Coding Diploma student building toward full-stack development.</p>
     </footer>
+    <script src="script.js"></script>
 </body>
 
 </html>
