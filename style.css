@@ -46,7 +46,7 @@ a {
 
 .site-header {
   position: relative;
-  padding: 7rem 0 3rem;
+  padding: 5.25rem 0 2.5rem;
   overflow: visible;
 }
 
@@ -221,7 +221,7 @@ a {
 
 /* Hero section */
 .hero-content {
-  padding: 3rem 0 2rem;
+  padding: 1.4rem 0 2rem;
 }
 
 .hero-grid {
@@ -844,7 +844,7 @@ a {
   }
 
   .site-header {
-    padding: 8.75rem 0 2.25rem;
+    padding: 6.65rem 0 1.85rem;
   }
 
   .nav-wrap {
@@ -887,7 +887,7 @@ a {
   }
 
   .hero-content {
-    padding: 1.25rem 0 1.5rem;
+    padding: 0.25rem 0 1.5rem;
   }
 
   .hero-grid {
@@ -1000,7 +1000,7 @@ a {
   }
 
   .site-header {
-    padding-top: 9.25rem;
+    padding-top: 7.1rem;
   }
 
   .nav-wrap {

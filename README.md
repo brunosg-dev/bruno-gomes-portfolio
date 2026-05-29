@@ -1,21 +1,50 @@
 # Bruno Silva Gomes — Coding Diploma Portfolio
 
-This portfolio is a clean, one-page web project designed to showcase my learning journey as an ITonlinelearning Coding Diploma student.
+A one-page learning portfolio created to document my progress as an ITonlinelearning Coding Diploma student.
 
-## About this portfolio
+This project is not intended to present me as an experienced developer yet. Its purpose is to show my learning journey, practical course activities, current skills, and progress toward full-stack development.
 
-- This site is a learning portfolio, not a senior developer showcase.
-- It documents practical web development activity, course progress, and skills growth.
-- The content focuses on front-end foundations while I work toward full-stack development.
+## Live Website
 
-## Technologies used
+View the portfolio here:
+
+https://brunosg-dev.github.io/bruno-gomes-portfolio/
+
+## About this project
+
+This portfolio was built to:
+
+- Showcase my current coding studies
+- Organise practical course activities in one place
+- Document my progress publicly through GitHub and LinkedIn
+- Present my technical growth in a simple and honest way
+- Keep a lightweight, responsive, and easy-to-update codebase
+
+## Current focus
+
+At this stage of my Coding Diploma, I am focusing on:
 
 - HTML
 - CSS
 - Responsive web design
-- GitHub Pages-ready structure
+- GitHub
+- GitHub Pages
+- JavaScript fundamentals
 
-## Included sections
+## Learning roadmap
+
+As I continue through the programme, I will also study:
+
+- JavaScript
+- React
+- Command Line
+- Databases
+- SQL
+- Python
+- Back-End Fundamentals
+- Cloud basics
+
+## Sections included
 
 - Home
 - About
@@ -24,23 +53,23 @@ This portfolio is a clean, one-page web project designed to showcase my learning
 - Skills
 - Contact
 
-## Portfolio goals
+## Technologies used
 
-- Present honest and beginner-friendly progress.
-- Share real course activity and project experience.
-- Use a modern dark design with a lightweight codebase.
-- Keep the site easy to update as I continue learning.
+- HTML
+- CSS
+- JavaScript
+- Responsive design
+- GitHub Pages
 
-## How to view
+## AI assistance note
 
-- Open `index.html` in a browser.
-- Deploy to GitHub Pages from this repository for a live demo.
+I used AI as a learning assistant during the creation of this portfolio. I actively reviewed, tested, edited, and refined the code while using the process to improve my understanding of HTML, CSS, responsive design, GitHub, and project organisation.
+
+## Status
+
+This portfolio is a work in progress and will continue to be updated as I complete more projects and advance through the Coding Diploma.
 
 ## Links
 
 - GitHub: https://github.com/brunosg-dev
 - LinkedIn: https://www.linkedin.com/in/bruno-silva-gomes-a6b816348/
-
-## Notes
-
-I used AI as a learning assistant while actively reviewing, editing, and understanding the code. The portfolio is still a work in progress and will be updated as I advance through the Coding Diploma.
