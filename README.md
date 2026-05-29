@@ -2,6 +2,8 @@
 
 A one-page learning portfolio created to document my progress as an ITonlinelearning Coding Diploma student.
 
+The programme is career-focused, mapped to the SFIA Framework, and designed to build practical skills through projects, GitHub portfolio development, and full-stack learning progression.
+
 This project is not intended to present me as an experienced developer yet. Its purpose is to show my learning journey, practical course activities, current skills, and progress toward full-stack development.
 
 ## Live Website
